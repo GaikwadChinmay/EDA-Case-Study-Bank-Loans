@@ -10,22 +10,26 @@ The Dataset:
         Few features have been derived for analytical purpose.
         
 The Notebook:
-        Jupyter Notebook focusses on:
-         - Data Loading
-         - Data merging
-         - Data validation and cleansing
-         - Data processing
-         - Data Visualization
+   Jupyter Notebook focusses on:
+         
+         Data Loading
+         Data merging
+         Data validation and cleansing
+         Data processing
+         Data Visualization
         The Notebook is placed at: https://github.com/GaikwadChinmay/EDA-Case-Study-Bank-Loans/blob/main/Credit_EDA_Case_Study_Final_Notebook.ipynb
         
 Data Visualization:
-        Data is visualized with:
-         - Univariate analysis
-         - Bi-variate analysis
-         - Multi-variate analysis
-        Data visualization is done with the help of
-         - pyplot from matplotlib
-         - Seaborn
+   Data is visualized with:
+        
+        Univariate analysis
+        Bi-variate analysis
+        Multi-variate analysis
+        
+   Data visualization is done with the help of:
+   
+    pyplot from matplotlib
+    Seaborn
          
 Conclusion:
         A report containing the visual summaries and the inferences from the graphs has been placed at : https://github.com/GaikwadChinmay/EDA-Case-Study-Bank-Loans/blob/main/Case%20Study%20Final%20Report.pdf

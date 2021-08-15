@@ -17,7 +17,7 @@ The Notebook:
          Data validation and cleansing
          Data processing
          Data Visualization
-        The Notebook is placed at: https://github.com/GaikwadChinmay/EDA-Case-Study-Bank-Loans/blob/main/Credit_EDA_Case_Study_Final_Notebook.ipynb
+   The Notebook is placed at: https://github.com/GaikwadChinmay/EDA-Case-Study-Bank-Loans/blob/main/Credit_EDA_Case_Study_Final_Notebook.ipynb
         
 Data Visualization:
    Data is visualized with:
